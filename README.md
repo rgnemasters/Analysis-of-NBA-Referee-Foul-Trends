@@ -1,4 +1,4 @@
-# Analysis-of-NBA-Referee-Foul-Trends
+# Analysis of NBA Foul Trends, Playoffs vs. Regular Season
 
 Data of referee foul calls was downloaded from https://data.world/akas3006/nba-dat-vis/workspace in order to analyze if rates of fouls called changed for the NBA playoffs vs. the regular season. Analysis focused on shooting fouls, since these are fouls which most determine the points total of games, and so could be useful in future models. Analysis was also limited to those with 20 or more games in each category, to ensure a large enough sample size.
 
